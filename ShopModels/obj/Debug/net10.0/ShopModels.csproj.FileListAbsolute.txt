@@ -1,0 +1,11 @@
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\bin\Debug\net10.0\ShopModels.deps.json
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\bin\Debug\net10.0\ShopModels.dll
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\bin\Debug\net10.0\ShopModels.pdb
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\obj\Debug\net10.0\ShopModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\obj\Debug\net10.0\ShopModels.AssemblyInfoInputs.cache
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\obj\Debug\net10.0\ShopModels.AssemblyInfo.cs
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\obj\Debug\net10.0\ShopModels.csproj.CoreCompileInputs.cache
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\obj\Debug\net10.0\ShopModels.dll
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\obj\Debug\net10.0\refint\ShopModels.dll
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\obj\Debug\net10.0\ShopModels.pdb
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopModels\obj\Debug\net10.0\ref\ShopModels.dll

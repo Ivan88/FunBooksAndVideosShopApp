@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>disable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>FunBooksAndVideosShopApp</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.7"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ShopReposInterfaces\ShopReposInterfaces.csproj" />
+      <ProjectReference Include="..\ShopRepos\ShopRepos.csproj" />
+      <ProjectReference Include="..\ShopDomainInterfaces\ShopDomainInterfaces.csproj" />
+      <ProjectReference Include="..\ShopDomain\ShopDomain.csproj" />
+    </ItemGroup>
+
+</Project>

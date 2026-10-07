@@ -1,0 +1,15 @@
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\bin\Debug\net10.0\ShopReposInterfaces.deps.json
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\bin\Debug\net10.0\ShopReposInterfaces.dll
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\bin\Debug\net10.0\ShopReposInterfaces.pdb
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\bin\Debug\net10.0\ShopModels.dll
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\bin\Debug\net10.0\ShopModels.pdb
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\obj\Debug\net10.0\ShopReposInterfaces.csproj.AssemblyReference.cache
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\obj\Debug\net10.0\ShopReposInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\obj\Debug\net10.0\ShopReposInterfaces.AssemblyInfoInputs.cache
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\obj\Debug\net10.0\ShopReposInterfaces.AssemblyInfo.cs
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\obj\Debug\net10.0\ShopReposInterfaces.csproj.CoreCompileInputs.cache
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\obj\Debug\net10.0\ShopRepo.22B8A9AB.Up2Date
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\obj\Debug\net10.0\ShopReposInterfaces.dll
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\obj\Debug\net10.0\refint\ShopReposInterfaces.dll
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\obj\Debug\net10.0\ShopReposInterfaces.pdb
+F:\RiderProjects\FunBooksAndVideosShopApp\ShopReposInterfaces\obj\Debug\net10.0\ref\ShopReposInterfaces.dll

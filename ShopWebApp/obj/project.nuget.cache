@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "welHfwslbY8=",
+  "success": true,
+  "projectFilePath": "F:\\RiderProjects\\FunBooksAndVideosShopApp\\ShopWebApp\\ShopWebApp.csproj",
+  "expectedPackageFiles": [
+    "F:\\NuGet\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "F:\\NuGet\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "F:\\RiderProjects\\FunBooksAndVideosShopApp\\ShopWebApp\\ShopWebApp.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\RiderProjects\\FunBooksAndVideosShopApp\\ShopWebApp\\ShopWebApp.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

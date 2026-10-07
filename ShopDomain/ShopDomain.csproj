@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <RootNamespace>ShopServices</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ShopModels\ShopModels.csproj" />
+      <ProjectReference Include="..\ShopReposInterfaces\ShopReposInterfaces.csproj" />
+      <ProjectReference Include="..\ShopDomainInterfaces\ShopDomainInterfaces.csproj" />
+    </ItemGroup>
+
+</Project>

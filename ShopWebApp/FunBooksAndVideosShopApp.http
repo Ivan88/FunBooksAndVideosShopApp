@@ -1,0 +1,28 @@
+@FunBooksAndVideosShopApp_HostAddress = http://localhost:5236
+
+POST {{FunBooksAndVideosShopApp_HostAddress}}/customers/1/orders
+Accept: application/json
+
+###
+GET {{FunBooksAndVideosShopApp_HostAddress}}/orders/1/
+Accept: application/json
+
+###
+PUT {{FunBooksAndVideosShopApp_HostAddress}}/orders/1/products/2
+Accept: application/json
+
+###
+PUT {{FunBooksAndVideosShopApp_HostAddress}}/orders/1
+Accept: application/json
+
+###
+GET {{FunBooksAndVideosShopApp_HostAddress}}/customers
+Accept: application/json
+
+###
+GET {{FunBooksAndVideosShopApp_HostAddress}}/products
+Accept: application/json
+
+###
+GET {{FunBooksAndVideosShopApp_HostAddress}}/shipping-slips
+Accept: application/json
